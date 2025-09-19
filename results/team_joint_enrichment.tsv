@@ -1,0 +1,1069 @@
+source	native	name	gprof_all__p_value	gprof_all__minus_log10_p	methods_tested	methods_significant
+GO:BP	GO:0000041	transition metal ion transport	1.0	-0.0	1	0
+GO:BP	GO:0000082	G1/S transition of mitotic cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0000278	mitotic cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0000302	response to reactive oxygen species	1.0	-0.0	1	0
+GO:BP	GO:0000902	cell morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0001501	skeletal system development	1.0	-0.0	1	0
+GO:BP	GO:0001503	ossification	1.0	-0.0	1	0
+GO:BP	GO:0001516	prostaglandin biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0001523	retinoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0001525	angiogenesis	1.0	-0.0	1	0
+GO:BP	GO:0001568	blood vessel development	1.0	-0.0	1	0
+GO:BP	GO:0001655	urogenital system development	1.0	-0.0	1	0
+GO:BP	GO:0001659	temperature homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0001666	response to hypoxia	1.0	-0.0	1	0
+GO:BP	GO:0001701	in utero embryonic development	1.0	-0.0	1	0
+GO:BP	GO:0001775	cell activation	1.0	-0.0	1	0
+GO:BP	GO:0001776	leukocyte homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0001780	neutrophil homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0001781	neutrophil apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0001782	B cell homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0001816	cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0001817	regulation of cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0001818	negative regulation of cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0001819	positive regulation of cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0001824	blastocyst development	1.0	-0.0	1	0
+GO:BP	GO:0001825	blastocyst formation	1.0	-0.0	1	0
+GO:BP	GO:0001889	liver development	1.0	-0.0	1	0
+GO:BP	GO:0001894	tissue homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0001906	cell killing	1.0	-0.0	1	0
+GO:BP	GO:0001932	regulation of protein phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0001933	negative regulation of protein phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0001944	vasculature development	1.0	-0.0	1	0
+GO:BP	GO:0002009	morphogenesis of an epithelium	1.0	-0.0	1	0
+GO:BP	GO:0002040	sprouting angiogenesis	1.0	-0.0	1	0
+GO:BP	GO:0002042	cell migration involved in sprouting angiogenesis	1.0	-0.0	1	0
+GO:BP	GO:0002237	response to molecule of bacterial origin	1.0	-0.0	1	0
+GO:BP	GO:0002250	adaptive immune response	1.0	-0.0	1	0
+GO:BP	GO:0002252	immune effector process	1.0	-0.0	1	0
+GO:BP	GO:0002253	activation of immune response	1.0	-0.0	1	0
+GO:BP	GO:0002260	lymphocyte homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0002262	myeloid cell homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0002263	cell activation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002274	myeloid leukocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0002285	lymphocyte activation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002286	T cell activation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002287	alpha-beta T cell activation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002292	T cell differentiation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002293	alpha-beta T cell differentiation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002366	leukocyte activation involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002367	cytokine production involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002369	T cell cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0002376	immune system process	1.0	-0.0	1	0
+GO:BP	GO:0002440	production of molecular mediator of immune response	1.0	-0.0	1	0
+GO:BP	GO:0002443	leukocyte mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002449	lymphocyte mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002455	humoral immune response mediated by circulating immunoglobulin	1.0	-0.0	1	0
+GO:BP	GO:0002456	T cell mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	1.0	-0.0	1	0
+GO:BP	GO:0002478	antigen processing and presentation of exogenous peptide antigen	1.0	-0.0	1	0
+GO:BP	GO:0002495	antigen processing and presentation of peptide antigen via MHC class II	1.0	-0.0	1	0
+GO:BP	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	1.0	-0.0	1	0
+GO:BP	GO:0002520	immune system development	1.0	-0.0	1	0
+GO:BP	GO:0002521	leukocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0002526	acute inflammatory response	1.0	-0.0	1	0
+GO:BP	GO:0002548	monocyte chemotaxis	1.0	-0.0	1	0
+GO:BP	GO:0002682	regulation of immune system process	1.0	-0.0	1	0
+GO:BP	GO:0002683	negative regulation of immune system process	1.0	-0.0	1	0
+GO:BP	GO:0002684	positive regulation of immune system process	1.0	-0.0	1	0
+GO:BP	GO:0002685	regulation of leukocyte migration	1.0	-0.0	1	0
+GO:BP	GO:0002694	regulation of leukocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0002695	negative regulation of leukocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0002696	positive regulation of leukocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0002697	regulation of immune effector process	1.0	-0.0	1	0
+GO:BP	GO:0002698	negative regulation of immune effector process	1.0	-0.0	1	0
+GO:BP	GO:0002699	positive regulation of immune effector process	1.0	-0.0	1	0
+GO:BP	GO:0002700	regulation of production of molecular mediator of immune response	1.0	-0.0	1	0
+GO:BP	GO:0002702	positive regulation of production of molecular mediator of immune response	1.0	-0.0	1	0
+GO:BP	GO:0002703	regulation of leukocyte mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002705	positive regulation of leukocyte mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002706	regulation of lymphocyte mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002708	positive regulation of lymphocyte mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002709	regulation of T cell mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002711	positive regulation of T cell mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0002718	regulation of cytokine production involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002720	positive regulation of cytokine production involved in immune response	1.0	-0.0	1	0
+GO:BP	GO:0002724	regulation of T cell cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0002726	positive regulation of T cell cytokine production	1.0	-0.0	1	0
+GO:BP	GO:0002790	peptide secretion	1.0	-0.0	1	0
+GO:BP	GO:0002819	regulation of adaptive immune response	1.0	-0.0	1	0
+GO:BP	GO:0002821	positive regulation of adaptive immune response	1.0	-0.0	1	0
+GO:BP	GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	1.0	-0.0	1	0
+GO:BP	GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	1.0	-0.0	1	0
+GO:BP	GO:0002825	regulation of T-helper 1 type immune response	1.0	-0.0	1	0
+GO:BP	GO:0002828	regulation of type 2 immune response	1.0	-0.0	1	0
+GO:BP	GO:0002829	negative regulation of type 2 immune response	1.0	-0.0	1	0
+GO:BP	GO:0002831	regulation of response to biotic stimulus	1.0	-0.0	1	0
+GO:BP	GO:0002920	regulation of humoral immune response	1.0	-0.0	1	0
+GO:BP	GO:0002921	negative regulation of humoral immune response	1.0	-0.0	1	0
+GO:BP	GO:0003006	developmental process involved in reproduction	1.0	-0.0	1	0
+GO:BP	GO:0003007	heart morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0003008	system process	1.0	-0.0	1	0
+GO:BP	GO:0003205	cardiac chamber development	1.0	-0.0	1	0
+GO:BP	GO:0003206	cardiac chamber morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0003376	sphingosine-1-phosphate receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0005975	carbohydrate metabolic process	0.8854968883654432	0.0528129605812944	1	0
+GO:BP	GO:0005984	disaccharide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0005985	sucrose metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0005987	sucrose catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0005996	monosaccharide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006000	fructose metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006001	fructose catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006006	glucose metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006066	alcohol metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006081	aldehyde metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006082	organic acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006090	pyruvate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006091	generation of precursor metabolites and energy	1.0	-0.0	1	0
+GO:BP	GO:0006094	gluconeogenesis	1.0	-0.0	1	0
+GO:BP	GO:0006096	glycolytic process	1.0	-0.0	1	0
+GO:BP	GO:0006098	pentose-phosphate shunt	1.0	-0.0	1	0
+GO:BP	GO:0006108	malate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006109	regulation of carbohydrate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006139	nucleobase-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006140	regulation of nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006163	purine nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006195	purine nucleotide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006457	protein folding	1.0	-0.0	1	0
+GO:BP	GO:0006458	'de novo' protein folding	1.0	-0.0	1	0
+GO:BP	GO:0006468	protein phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0006469	negative regulation of protein kinase activity	1.0	-0.0	1	0
+GO:BP	GO:0006508	proteolysis	1.0	-0.0	1	0
+GO:BP	GO:0006509	membrane protein ectodomain proteolysis	1.0	-0.0	1	0
+GO:BP	GO:0006575	modified amino acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006590	thyroid hormone generation	0.5904868766304084	0.2287897499900613	1	0
+GO:BP	GO:0006629	lipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006631	fatty acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006633	fatty acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0006636	unsaturated fatty acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0006638	neutral lipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006639	acylglycerol metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006643	membrane lipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006665	sphingolipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006690	icosanoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006692	prostanoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006693	prostaglandin metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006720	isoprenoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006721	terpenoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006734	NADH metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006739	NADP metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006740	NADPH regeneration	1.0	-0.0	1	0
+GO:BP	GO:0006753	nucleoside phosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006766	vitamin metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006767	water-soluble vitamin metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006778	porphyrin-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006787	porphyrin-containing compound catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006789	bilirubin conjugation	1.0	-0.0	1	0
+GO:BP	GO:0006790	sulfur compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006793	phosphorus metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006796	phosphate-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006801	superoxide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006805	xenobiotic metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0006810	transport	1.0	-0.0	1	0
+GO:BP	GO:0006811	monoatomic ion transport	1.0	-0.0	1	0
+GO:BP	GO:0006812	monoatomic cation transport	1.0	-0.0	1	0
+GO:BP	GO:0006816	calcium ion transport	1.0	-0.0	1	0
+GO:BP	GO:0006820	monoatomic anion transport	1.0	-0.0	1	0
+GO:BP	GO:0006821	chloride transport	1.0	-0.0	1	0
+GO:BP	GO:0006826	iron ion transport	1.0	-0.0	1	0
+GO:BP	GO:0006869	lipid transport	1.0	-0.0	1	0
+GO:BP	GO:0006873	intracellular monoatomic ion homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0006874	intracellular calcium ion homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0006887	exocytosis	1.0	-0.0	1	0
+GO:BP	GO:0006897	endocytosis	1.0	-0.0	1	0
+GO:BP	GO:0006906	vesicle fusion	1.0	-0.0	1	0
+GO:BP	GO:0006909	phagocytosis	1.0	-0.0	1	0
+GO:BP	GO:0006914	autophagy	1.0	-0.0	1	0
+GO:BP	GO:0006915	apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0006925	inflammatory cell apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0006935	chemotaxis	1.0	-0.0	1	0
+GO:BP	GO:0006950	response to stress	1.0	-0.0	1	0
+GO:BP	GO:0006952	defense response	1.0	-0.0	1	0
+GO:BP	GO:0006953	acute-phase response	1.0	-0.0	1	0
+GO:BP	GO:0006954	inflammatory response	1.0	-0.0	1	0
+GO:BP	GO:0006955	immune response	1.0	-0.0	1	0
+GO:BP	GO:0006956	complement activation	1.0	-0.0	1	0
+GO:BP	GO:0006958	complement activation, classical pathway	1.0	-0.0	1	0
+GO:BP	GO:0006959	humoral immune response	1.0	-0.0	1	0
+GO:BP	GO:0006979	response to oxidative stress	1.0	-0.0	1	0
+GO:BP	GO:0006986	response to unfolded protein	1.0	-0.0	1	0
+GO:BP	GO:0006996	organelle organization	1.0	-0.0	1	0
+GO:BP	GO:0007010	cytoskeleton organization	1.0	-0.0	1	0
+GO:BP	GO:0007049	cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0007154	cell communication	1.0	-0.0	1	0
+GO:BP	GO:0007155	cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0007159	leukocyte cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0007162	negative regulation of cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0007165	signal transduction	1.0	-0.0	1	0
+GO:BP	GO:0007166	cell surface receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007167	enzyme-linked receptor protein signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007173	epidermal growth factor receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	1.0	-0.0	1	0
+GO:BP	GO:0007176	regulation of epidermal growth factor-activated receptor activity	1.0	-0.0	1	0
+GO:BP	GO:0007178	cell surface receptor protein serine/threonine kinase signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007179	transforming growth factor beta receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007186	G protein-coupled receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007187	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	1.0	-0.0	1	0
+GO:BP	GO:0007188	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007189	adenylate cyclase-activating G protein-coupled receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0007204	positive regulation of cytosolic calcium ion concentration	1.0	-0.0	1	0
+GO:BP	GO:0007267	cell-cell signaling	1.0	-0.0	1	0
+GO:BP	GO:0007272	ensheathment of neurons	1.0	-0.0	1	0
+GO:BP	GO:0007275	multicellular organism development	1.0	-0.0	1	0
+GO:BP	GO:0007276	gamete generation	1.0	-0.0	1	0
+GO:BP	GO:0007281	germ cell development	1.0	-0.0	1	0
+GO:BP	GO:0007283	spermatogenesis	1.0	-0.0	1	0
+GO:BP	GO:0007286	spermatid development	1.0	-0.0	1	0
+GO:BP	GO:0007338	single fertilization	1.0	-0.0	1	0
+GO:BP	GO:0007340	acrosome reaction	1.0	-0.0	1	0
+GO:BP	GO:0007346	regulation of mitotic cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0007399	nervous system development	1.0	-0.0	1	0
+GO:BP	GO:0007417	central nervous system development	1.0	-0.0	1	0
+GO:BP	GO:0007420	brain development	1.0	-0.0	1	0
+GO:BP	GO:0007422	peripheral nervous system development	1.0	-0.0	1	0
+GO:BP	GO:0007423	sensory organ development	1.0	-0.0	1	0
+GO:BP	GO:0007507	heart development	1.0	-0.0	1	0
+GO:BP	GO:0007517	muscle organ development	1.0	-0.0	1	0
+GO:BP	GO:0007519	skeletal muscle tissue development	1.0	-0.0	1	0
+GO:BP	GO:0007584	response to nutrient	1.0	-0.0	1	0
+GO:BP	GO:0007586	digestion	1.0	-0.0	1	0
+GO:BP	GO:0007600	sensory perception	1.0	-0.0	1	0
+GO:BP	GO:0007605	sensory perception of sound	1.0	-0.0	1	0
+GO:BP	GO:0007610	behavior	1.0	-0.0	1	0
+GO:BP	GO:0007617	mating behavior	1.0	-0.0	1	0
+GO:BP	GO:0007620	copulation	1.0	-0.0	1	0
+GO:BP	GO:0008104	protein localization	1.0	-0.0	1	0
+GO:BP	GO:0008150	biological_process	1.0	-0.0	1	0
+GO:BP	GO:0008152	metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0008202	steroid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0008203	cholesterol metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0008210	estrogen metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0008219	cell death	1.0	-0.0	1	0
+GO:BP	GO:0008283	cell population proliferation	1.0	-0.0	1	0
+GO:BP	GO:0008284	positive regulation of cell population proliferation	1.0	-0.0	1	0
+GO:BP	GO:0008285	negative regulation of cell population proliferation	1.0	-0.0	1	0
+GO:BP	GO:0008360	regulation of cell shape	1.0	-0.0	1	0
+GO:BP	GO:0008366	axon ensheathment	1.0	-0.0	1	0
+GO:BP	GO:0008544	epidermis development	1.0	-0.0	1	0
+GO:BP	GO:0008610	lipid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009056	catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009058	biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009059	macromolecule biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009062	fatty acid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009100	glycoprotein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009101	glycoprotein biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009117	nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009132	nucleoside diphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009134	nucleoside diphosphate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009135	purine nucleoside diphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009137	purine nucleoside diphosphate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009141	nucleoside triphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009144	purine nucleoside triphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009150	purine ribonucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009154	purine ribonucleotide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009165	nucleotide biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009166	nucleotide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009179	purine ribonucleoside diphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009181	purine ribonucleoside diphosphate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009185	ribonucleoside diphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009191	ribonucleoside diphosphate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009199	ribonucleoside triphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009205	purine ribonucleoside triphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009259	ribonucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009261	ribonucleotide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009266	response to temperature stimulus	1.0	-0.0	1	0
+GO:BP	GO:0009306	protein secretion	1.0	-0.0	1	0
+GO:BP	GO:0009308	amine metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009311	oligosaccharide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009313	oligosaccharide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009314	response to radiation	1.0	-0.0	1	0
+GO:BP	GO:0009410	response to xenobiotic stimulus	1.0	-0.0	1	0
+GO:BP	GO:0009566	fertilization	1.0	-0.0	1	0
+GO:BP	GO:0009605	response to external stimulus	1.0	-0.0	1	0
+GO:BP	GO:0009607	response to biotic stimulus	0.9249720041769788	0.0338714117101028	1	0
+GO:BP	GO:0009611	response to wounding	1.0	-0.0	1	0
+GO:BP	GO:0009615	response to virus	1.0	-0.0	1	0
+GO:BP	GO:0009617	response to bacterium	1.0	-0.0	1	0
+GO:BP	GO:0009628	response to abiotic stimulus	1.0	-0.0	1	0
+GO:BP	GO:0009636	response to toxic substance	1.0	-0.0	1	0
+GO:BP	GO:0009653	anatomical structure morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0009719	response to endogenous stimulus	1.0	-0.0	1	0
+GO:BP	GO:0009725	response to hormone	1.0	-0.0	1	0
+GO:BP	GO:0009743	response to carbohydrate	1.0	-0.0	1	0
+GO:BP	GO:0009755	hormone-mediated signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0009790	embryo development	1.0	-0.0	1	0
+GO:BP	GO:0009792	embryo development ending in birth or egg hatching	1.0	-0.0	1	0
+GO:BP	GO:0009812	flavonoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009887	animal organ morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0009888	tissue development	1.0	-0.0	1	0
+GO:BP	GO:0009889	regulation of biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009890	negative regulation of biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009891	positive regulation of biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0009892	negative regulation of metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009893	positive regulation of metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009894	regulation of catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009895	negative regulation of catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0009913	epidermal cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0009914	hormone transport	1.0	-0.0	1	0
+GO:BP	GO:0009966	regulation of signal transduction	1.0	-0.0	1	0
+GO:BP	GO:0009968	negative regulation of signal transduction	1.0	-0.0	1	0
+GO:BP	GO:0009987	cellular process	1.0	-0.0	1	0
+GO:BP	GO:0010001	glial cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0010038	response to metal ion	1.0	-0.0	1	0
+GO:BP	GO:0010039	response to iron ion	1.0	-0.0	1	0
+GO:BP	GO:0010165	response to X-ray	1.0	-0.0	1	0
+GO:BP	GO:0010212	response to ionizing radiation	1.0	-0.0	1	0
+GO:BP	GO:0010310	regulation of hydrogen peroxide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0010467	gene expression	1.0	-0.0	1	0
+GO:BP	GO:0010468	regulation of gene expression	1.0	-0.0	1	0
+GO:BP	GO:0010469	regulation of signaling receptor activity	1.0	-0.0	1	0
+GO:BP	GO:0010506	regulation of autophagy	1.0	-0.0	1	0
+GO:BP	GO:0010507	negative regulation of autophagy	1.0	-0.0	1	0
+GO:BP	GO:0010556	regulation of macromolecule biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010557	positive regulation of macromolecule biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010558	negative regulation of macromolecule biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010559	regulation of glycoprotein biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010561	negative regulation of glycoprotein biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010563	negative regulation of phosphorus metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0010564	regulation of cell cycle process	1.0	-0.0	1	0
+GO:BP	GO:0010565	regulation of ketone metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0010594	regulation of endothelial cell migration	1.0	-0.0	1	0
+GO:BP	GO:0010595	positive regulation of endothelial cell migration	1.0	-0.0	1	0
+GO:BP	GO:0010604	positive regulation of macromolecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0010605	negative regulation of macromolecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0010628	positive regulation of gene expression	1.0	-0.0	1	0
+GO:BP	GO:0010629	negative regulation of gene expression	1.0	-0.0	1	0
+GO:BP	GO:0010638	positive regulation of organelle organization	1.0	-0.0	1	0
+GO:BP	GO:0010646	regulation of cell communication	1.0	-0.0	1	0
+GO:BP	GO:0010648	negative regulation of cell communication	1.0	-0.0	1	0
+GO:BP	GO:0010669	epithelial structure maintenance	1.0	-0.0	1	0
+GO:BP	GO:0010720	positive regulation of cell development	1.0	-0.0	1	0
+GO:BP	GO:0010721	negative regulation of cell development	1.0	-0.0	1	0
+GO:BP	GO:0010726	positive regulation of hydrogen peroxide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0010728	regulation of hydrogen peroxide biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010729	positive regulation of hydrogen peroxide biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0010817	regulation of hormone levels	0.8501596075849869	0.0704995328900358	1	0
+GO:BP	GO:0010876	lipid localization	1.0	-0.0	1	0
+GO:BP	GO:0012501	programmed cell death	1.0	-0.0	1	0
+GO:BP	GO:0014037	Schwann cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0014044	Schwann cell development	1.0	-0.0	1	0
+GO:BP	GO:0014074	response to purine-containing compound	1.0	-0.0	1	0
+GO:BP	GO:0014706	striated muscle tissue development	1.0	-0.0	1	0
+GO:BP	GO:0014812	muscle cell migration	1.0	-0.0	1	0
+GO:BP	GO:0014839	myoblast migration involved in skeletal muscle regeneration	1.0	-0.0	1	0
+GO:BP	GO:0014909	smooth muscle cell migration	1.0	-0.0	1	0
+GO:BP	GO:0014910	regulation of smooth muscle cell migration	1.0	-0.0	1	0
+GO:BP	GO:0014912	negative regulation of smooth muscle cell migration	1.0	-0.0	1	0
+GO:BP	GO:0015031	protein transport	1.0	-0.0	1	0
+GO:BP	GO:0015698	inorganic anion transport	1.0	-0.0	1	0
+GO:BP	GO:0015711	organic anion transport	1.0	-0.0	1	0
+GO:BP	GO:0015718	monocarboxylic acid transport	1.0	-0.0	1	0
+GO:BP	GO:0015833	peptide transport	1.0	-0.0	1	0
+GO:BP	GO:0015849	organic acid transport	1.0	-0.0	1	0
+GO:BP	GO:0015891	siderophore transport	1.0	-0.0	1	0
+GO:BP	GO:0015908	fatty acid transport	1.0	-0.0	1	0
+GO:BP	GO:0015909	long-chain fatty acid transport	1.0	-0.0	1	0
+GO:BP	GO:0016032	viral process	1.0	-0.0	1	0
+GO:BP	GO:0016042	lipid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0016043	cellular component organization	1.0	-0.0	1	0
+GO:BP	GO:0016050	vesicle organization	1.0	-0.0	1	0
+GO:BP	GO:0016051	carbohydrate biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0016052	carbohydrate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0016053	organic acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0016054	organic acid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0016064	immunoglobulin mediated immune response	1.0	-0.0	1	0
+GO:BP	GO:0016101	diterpenoid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0016125	sterol metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0016192	vesicle-mediated transport	1.0	-0.0	1	0
+GO:BP	GO:0016236	macroautophagy	1.0	-0.0	1	0
+GO:BP	GO:0016241	regulation of macroautophagy	1.0	-0.0	1	0
+GO:BP	GO:0016242	negative regulation of macroautophagy	1.0	-0.0	1	0
+GO:BP	GO:0016310	phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0016477	cell migration	1.0	-0.0	1	0
+GO:BP	GO:0016485	protein processing	1.0	-0.0	1	0
+GO:BP	GO:0016486	peptide hormone processing	1.0	-0.0	1	0
+GO:BP	GO:0016540	protein autoprocessing	1.0	-0.0	1	0
+GO:BP	GO:0017157	regulation of exocytosis	1.0	-0.0	1	0
+GO:BP	GO:0018108	peptidyl-tyrosine phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0018149	peptide cross-linking	0.943267169958416	0.0253652807462859	1	0
+GO:BP	GO:0018193	peptidyl-amino acid modification	1.0	-0.0	1	0
+GO:BP	GO:0018212	peptidyl-tyrosine modification	1.0	-0.0	1	0
+GO:BP	GO:0018879	biphenyl metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0018958	phenol-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019058	viral life cycle	1.0	-0.0	1	0
+GO:BP	GO:0019098	reproductive behavior	1.0	-0.0	1	0
+GO:BP	GO:0019216	regulation of lipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019217	regulation of fatty acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019218	regulation of steroid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019219	regulation of nucleobase-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019220	regulation of phosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019221	cytokine-mediated signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0019222	regulation of metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019318	hexose metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019319	hexose biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0019320	hexose catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019362	pyridine nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019364	pyridine nucleotide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019538	protein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019637	organophosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019682	glyceraldehyde-3-phosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019693	ribose phosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019724	B cell mediated immunity	1.0	-0.0	1	0
+GO:BP	GO:0019725	cellular homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0019730	antimicrobial humoral response	1.0	-0.0	1	0
+GO:BP	GO:0019731	antibacterial humoral response	1.0	-0.0	1	0
+GO:BP	GO:0019752	carboxylic acid metabolic process	0.9960990526992222	0.001697472919927	1	0
+GO:BP	GO:0019852	L-ascorbic acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0019882	antigen processing and presentation	1.0	-0.0	1	0
+GO:BP	GO:0019884	antigen processing and presentation of exogenous antigen	1.0	-0.0	1	0
+GO:BP	GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	1.0	-0.0	1	0
+GO:BP	GO:0019933	cAMP-mediated signaling	1.0	-0.0	1	0
+GO:BP	GO:0019953	sexual reproduction	1.0	-0.0	1	0
+GO:BP	GO:0021536	diencephalon development	1.0	-0.0	1	0
+GO:BP	GO:0021700	developmental maturation	1.0	-0.0	1	0
+GO:BP	GO:0021782	glial cell development	1.0	-0.0	1	0
+GO:BP	GO:0021983	pituitary gland development	1.0	-0.0	1	0
+GO:BP	GO:0021984	adenohypophysis development	1.0	-0.0	1	0
+GO:BP	GO:0022008	neurogenesis	1.0	-0.0	1	0
+GO:BP	GO:0022011	myelination in peripheral nervous system	1.0	-0.0	1	0
+GO:BP	GO:0022402	cell cycle process	1.0	-0.0	1	0
+GO:BP	GO:0022407	regulation of cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0022408	negative regulation of cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0022409	positive regulation of cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0022412	cellular process involved in reproduction in multicellular organism	1.0	-0.0	1	0
+GO:BP	GO:0022414	reproductive process	1.0	-0.0	1	0
+GO:BP	GO:0022600	digestive system process	1.0	-0.0	1	0
+GO:BP	GO:0022603	regulation of anatomical structure morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0022604	regulation of cell morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0022607	cellular component assembly	1.0	-0.0	1	0
+GO:BP	GO:0022612	gland morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0023051	regulation of signaling	1.0	-0.0	1	0
+GO:BP	GO:0023052	signaling	1.0	-0.0	1	0
+GO:BP	GO:0023057	negative regulation of signaling	1.0	-0.0	1	0
+GO:BP	GO:0023061	signal release	1.0	-0.0	1	0
+GO:BP	GO:0030001	metal ion transport	1.0	-0.0	1	0
+GO:BP	GO:0030003	intracellular monoatomic cation homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0030029	actin filament-based process	1.0	-0.0	1	0
+GO:BP	GO:0030036	actin cytoskeleton organization	1.0	-0.0	1	0
+GO:BP	GO:0030072	peptide hormone secretion	1.0	-0.0	1	0
+GO:BP	GO:0030073	insulin secretion	1.0	-0.0	1	0
+GO:BP	GO:0030097	hemopoiesis	1.0	-0.0	1	0
+GO:BP	GO:0030098	lymphocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0030148	sphingolipid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0030154	cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0030155	regulation of cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0030198	extracellular matrix organization	1.0	-0.0	1	0
+GO:BP	GO:0030199	collagen fibril organization	1.0	-0.0	1	0
+GO:BP	GO:0030216	keratinocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0030217	T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0030277	maintenance of gastrointestinal epithelium	1.0	-0.0	1	0
+GO:BP	GO:0030282	bone mineralization	1.0	-0.0	1	0
+GO:BP	GO:0030334	regulation of cell migration	1.0	-0.0	1	0
+GO:BP	GO:0030335	positive regulation of cell migration	1.0	-0.0	1	0
+GO:BP	GO:0030336	negative regulation of cell migration	1.0	-0.0	1	0
+GO:BP	GO:0030388	fructose 1,6-bisphosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0030449	regulation of complement activation	1.0	-0.0	1	0
+GO:BP	GO:0030595	leukocyte chemotaxis	1.0	-0.0	1	0
+GO:BP	GO:0030850	prostate gland development	1.0	-0.0	1	0
+GO:BP	GO:0030855	epithelial cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0030878	thyroid gland development	1.0	-0.0	1	0
+GO:BP	GO:0030900	forebrain development	1.0	-0.0	1	0
+GO:BP	GO:0030968	endoplasmic reticulum unfolded protein response	1.0	-0.0	1	0
+GO:BP	GO:0031016	pancreas development	1.0	-0.0	1	0
+GO:BP	GO:0031018	endocrine pancreas development	1.0	-0.0	1	0
+GO:BP	GO:0031099	regeneration	1.0	-0.0	1	0
+GO:BP	GO:0031100	animal organ regeneration	1.0	-0.0	1	0
+GO:BP	GO:0031214	biomineral tissue development	1.0	-0.0	1	0
+GO:BP	GO:0031338	regulation of vesicle fusion	1.0	-0.0	1	0
+GO:BP	GO:0031340	positive regulation of vesicle fusion	1.0	-0.0	1	0
+GO:BP	GO:0031341	regulation of cell killing	1.0	-0.0	1	0
+GO:BP	GO:0031347	regulation of defense response	1.0	-0.0	1	0
+GO:BP	GO:0031392	regulation of prostaglandin biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0031394	positive regulation of prostaglandin biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0031399	regulation of protein modification process	1.0	-0.0	1	0
+GO:BP	GO:0031400	negative regulation of protein modification process	1.0	-0.0	1	0
+GO:BP	GO:0031640	killing of cells of another organism	1.0	-0.0	1	0
+GO:BP	GO:0031663	lipopolysaccharide-mediated signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0031667	response to nutrient levels	1.0	-0.0	1	0
+GO:BP	GO:0031960	response to corticosteroid	1.0	-0.0	1	0
+GO:BP	GO:0032101	regulation of response to external stimulus	1.0	-0.0	1	0
+GO:BP	GO:0032292	peripheral nervous system axon ensheathment	1.0	-0.0	1	0
+GO:BP	GO:0032309	icosanoid secretion	1.0	-0.0	1	0
+GO:BP	GO:0032350	regulation of hormone metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0032355	response to estradiol	1.0	-0.0	1	0
+GO:BP	GO:0032438	melanosome organization	1.0	-0.0	1	0
+GO:BP	GO:0032496	response to lipopolysaccharide	1.0	-0.0	1	0
+GO:BP	GO:0032501	multicellular organismal process	1.0	-0.0	1	0
+GO:BP	GO:0032502	developmental process	1.0	-0.0	1	0
+GO:BP	GO:0032570	response to progesterone	1.0	-0.0	1	0
+GO:BP	GO:0032612	interleukin-1 production	1.0	-0.0	1	0
+GO:BP	GO:0032623	interleukin-2 production	1.0	-0.0	1	0
+GO:BP	GO:0032637	interleukin-8 production	1.0	-0.0	1	0
+GO:BP	GO:0032652	regulation of interleukin-1 production	1.0	-0.0	1	0
+GO:BP	GO:0032663	regulation of interleukin-2 production	1.0	-0.0	1	0
+GO:BP	GO:0032677	regulation of interleukin-8 production	1.0	-0.0	1	0
+GO:BP	GO:0032717	negative regulation of interleukin-8 production	1.0	-0.0	1	0
+GO:BP	GO:0032743	positive regulation of interleukin-2 production	1.0	-0.0	1	0
+GO:BP	GO:0032781	positive regulation of ATP-dependent activity	1.0	-0.0	1	0
+GO:BP	GO:0032787	monocarboxylic acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0032870	cellular response to hormone stimulus	1.0	-0.0	1	0
+GO:BP	GO:0032879	regulation of localization	1.0	-0.0	1	0
+GO:BP	GO:0032940	secretion by cell	1.0	-0.0	1	0
+GO:BP	GO:0032943	mononuclear cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0032944	regulation of mononuclear cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0032946	positive regulation of mononuclear cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0033013	tetrapyrrole metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0033015	tetrapyrrole catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0033028	myeloid cell apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0033029	regulation of neutrophil apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0033031	positive regulation of neutrophil apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0033032	regulation of myeloid cell apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0033034	positive regulation of myeloid cell apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0033036	macromolecule localization	1.0	-0.0	1	0
+GO:BP	GO:0033043	regulation of organelle organization	1.0	-0.0	1	0
+GO:BP	GO:0033059	cellular pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0033500	carbohydrate homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0033554	cellular response to stress	1.0	-0.0	1	0
+GO:BP	GO:0033559	unsaturated fatty acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0033619	membrane protein proteolysis	1.0	-0.0	1	0
+GO:BP	GO:0033673	negative regulation of kinase activity	1.0	-0.0	1	0
+GO:BP	GO:0033993	response to lipid	1.0	-0.0	1	0
+GO:BP	GO:0034097	response to cytokine	1.0	-0.0	1	0
+GO:BP	GO:0034220	monoatomic ion transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0034248	regulation of amide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0034599	cellular response to oxidative stress	1.0	-0.0	1	0
+GO:BP	GO:0034614	cellular response to reactive oxygen species	1.0	-0.0	1	0
+GO:BP	GO:0034620	cellular response to unfolded protein	1.0	-0.0	1	0
+GO:BP	GO:0034654	nucleobase-containing compound biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0034655	nucleobase-containing compound catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0034975	protein folding in endoplasmic reticulum	1.0	-0.0	1	0
+GO:BP	GO:0034976	response to endoplasmic reticulum stress	1.0	-0.0	1	0
+GO:BP	GO:0035239	tube morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0035264	multicellular organism growth	1.0	-0.0	1	0
+GO:BP	GO:0035270	endocrine system development	1.0	-0.0	1	0
+GO:BP	GO:0035295	tube development	1.0	-0.0	1	0
+GO:BP	GO:0035556	intracellular signal transduction	1.0	-0.0	1	0
+GO:BP	GO:0035592	establishment of protein localization to extracellular region	1.0	-0.0	1	0
+GO:BP	GO:0035710	CD4-positive, alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0035739	CD4-positive, alpha-beta T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0035902	response to immobilization stress	1.0	-0.0	1	0
+GO:BP	GO:0035924	cellular response to vascular endothelial growth factor stimulus	1.0	-0.0	1	0
+GO:BP	GO:0035966	response to topologically incorrect protein	1.0	-0.0	1	0
+GO:BP	GO:0035967	cellular response to topologically incorrect protein	1.0	-0.0	1	0
+GO:BP	GO:0036211	protein modification process	1.0	-0.0	1	0
+GO:BP	GO:0036230	granulocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0036293	response to decreased oxygen levels	1.0	-0.0	1	0
+GO:BP	GO:0036294	cellular response to decreased oxygen levels	1.0	-0.0	1	0
+GO:BP	GO:0038127	ERBB signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0040007	growth	1.0	-0.0	1	0
+GO:BP	GO:0040011	locomotion	1.0	-0.0	1	0
+GO:BP	GO:0040012	regulation of locomotion	1.0	-0.0	1	0
+GO:BP	GO:0040013	negative regulation of locomotion	1.0	-0.0	1	0
+GO:BP	GO:0040017	positive regulation of locomotion	1.0	-0.0	1	0
+GO:BP	GO:0042058	regulation of epidermal growth factor receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0042059	negative regulation of epidermal growth factor receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0042060	wound healing	1.0	-0.0	1	0
+GO:BP	GO:0042063	gliogenesis	1.0	-0.0	1	0
+GO:BP	GO:0042088	T-helper 1 type immune response	1.0	-0.0	1	0
+GO:BP	GO:0042092	type 2 immune response	1.0	-0.0	1	0
+GO:BP	GO:0042093	T-helper cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0042098	T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0042102	positive regulation of T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0042110	T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0042119	neutrophil activation	1.0	-0.0	1	0
+GO:BP	GO:0042127	regulation of cell population proliferation	1.0	-0.0	1	0
+GO:BP	GO:0042129	regulation of T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0042157	lipoprotein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042178	xenobiotic catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042180	ketone metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042221	response to chemical	1.0	-0.0	1	0
+GO:BP	GO:0042246	tissue regeneration	1.0	-0.0	1	0
+GO:BP	GO:0042304	regulation of fatty acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0042325	regulation of phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0042326	negative regulation of phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0042330	taxis	1.0	-0.0	1	0
+GO:BP	GO:0042335	cuticle development	1.0	-0.0	1	0
+GO:BP	GO:0042403	thyroid hormone metabolic process	0.943267169958416	0.0253652807462859	1	0
+GO:BP	GO:0042440	pigment metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042445	hormone metabolic process	0.349007110359971	0.457165725021784	1	0
+GO:BP	GO:0042446	hormone biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0042537	benzene-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042542	response to hydrogen peroxide	1.0	-0.0	1	0
+GO:BP	GO:0042552	myelination	1.0	-0.0	1	0
+GO:BP	GO:0042554	superoxide anion generation	1.0	-0.0	1	0
+GO:BP	GO:0042573	retinoic acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042592	homeostatic process	1.0	-0.0	1	0
+GO:BP	GO:0042593	glucose homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0042594	response to starvation	1.0	-0.0	1	0
+GO:BP	GO:0042742	defense response to bacterium	1.0	-0.0	1	0
+GO:BP	GO:0042743	hydrogen peroxide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042744	hydrogen peroxide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042886	amide transport	1.0	-0.0	1	0
+GO:BP	GO:0042981	regulation of apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0042982	amyloid precursor protein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0042983	amyloid precursor protein biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0042984	regulation of amyloid precursor protein biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0043009	chordate embryonic development	1.0	-0.0	1	0
+GO:BP	GO:0043029	T cell homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0043062	extracellular structure organization	1.0	-0.0	1	0
+GO:BP	GO:0043065	positive regulation of apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0043066	negative regulation of apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0043067	regulation of programmed cell death	1.0	-0.0	1	0
+GO:BP	GO:0043068	positive regulation of programmed cell death	1.0	-0.0	1	0
+GO:BP	GO:0043069	negative regulation of programmed cell death	1.0	-0.0	1	0
+GO:BP	GO:0043086	negative regulation of catalytic activity	1.0	-0.0	1	0
+GO:BP	GO:0043170	macromolecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0043207	response to external biotic stimulus	0.7863241564697265	0.1043983822755445	1	0
+GO:BP	GO:0043277	apoptotic cell clearance	1.0	-0.0	1	0
+GO:BP	GO:0043367	CD4-positive, alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0043370	regulation of CD4-positive, alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0043371	negative regulation of CD4-positive, alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0043401	steroid hormone receptor signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0043403	skeletal muscle tissue regeneration	1.0	-0.0	1	0
+GO:BP	GO:0043412	macromolecule modification	1.0	-0.0	1	0
+GO:BP	GO:0043434	response to peptide hormone	1.0	-0.0	1	0
+GO:BP	GO:0043436	oxoacid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0043456	regulation of pentose-phosphate shunt	1.0	-0.0	1	0
+GO:BP	GO:0043462	regulation of ATP-dependent activity	1.0	-0.0	1	0
+GO:BP	GO:0043467	regulation of generation of precursor metabolites and energy	1.0	-0.0	1	0
+GO:BP	GO:0043470	regulation of carbohydrate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0043473	pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0043534	blood vessel endothelial cell migration	1.0	-0.0	1	0
+GO:BP	GO:0043535	regulation of blood vessel endothelial cell migration	1.0	-0.0	1	0
+GO:BP	GO:0043536	positive regulation of blood vessel endothelial cell migration	1.0	-0.0	1	0
+GO:BP	GO:0043542	endothelial cell migration	1.0	-0.0	1	0
+GO:BP	GO:0043549	regulation of kinase activity	1.0	-0.0	1	0
+GO:BP	GO:0043583	ear development	1.0	-0.0	1	0
+GO:BP	GO:0043588	skin development	1.0	-0.0	1	0
+GO:BP	GO:0043603	amide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0043648	dicarboxylic acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0043933	protein-containing complex organization	1.0	-0.0	1	0
+GO:BP	GO:0044085	cellular component biogenesis	1.0	-0.0	1	0
+GO:BP	GO:0044092	negative regulation of molecular function	1.0	-0.0	1	0
+GO:BP	GO:0044093	positive regulation of molecular function	1.0	-0.0	1	0
+GO:BP	GO:0044238	primary metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0044245	polysaccharide digestion	1.0	-0.0	1	0
+GO:BP	GO:0044281	small molecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0044282	small molecule catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0044283	small molecule biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0044403	biological process involved in symbiotic interaction	1.0	-0.0	1	0
+GO:BP	GO:0044409	symbiont entry into host	1.0	-0.0	1	0
+GO:BP	GO:0044419	biological process involved in interspecies interaction between organisms	1.0	-0.0	1	0
+GO:BP	GO:0044770	cell cycle phase transition	1.0	-0.0	1	0
+GO:BP	GO:0044772	mitotic cell cycle phase transition	1.0	-0.0	1	0
+GO:BP	GO:0044843	cell cycle G1/S phase transition	1.0	-0.0	1	0
+GO:BP	GO:0045063	T-helper 1 cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045064	T-helper 2 cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045087	innate immune response	1.0	-0.0	1	0
+GO:BP	GO:0045184	establishment of protein localization	1.0	-0.0	1	0
+GO:BP	GO:0045229	external encapsulating structure organization	1.0	-0.0	1	0
+GO:BP	GO:0045321	leukocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0045444	fat cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045454	cell redox homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0045471	response to ethanol	1.0	-0.0	1	0
+GO:BP	GO:0045580	regulation of T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045581	negative regulation of T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045582	positive regulation of T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045595	regulation of cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045596	negative regulation of cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045597	positive regulation of cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045619	regulation of lymphocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045620	negative regulation of lymphocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045621	positive regulation of lymphocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045622	regulation of T-helper cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045623	negative regulation of T-helper cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045624	positive regulation of T-helper cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045625	regulation of T-helper 1 cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045627	positive regulation of T-helper 1 cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045628	regulation of T-helper 2 cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045629	negative regulation of T-helper 2 cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0045723	positive regulation of fatty acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0045730	respiratory burst	1.0	-0.0	1	0
+GO:BP	GO:0045785	positive regulation of cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0045787	positive regulation of cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0045833	negative regulation of lipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045834	positive regulation of lipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045859	regulation of protein kinase activity	1.0	-0.0	1	0
+GO:BP	GO:0045916	negative regulation of complement activation	1.0	-0.0	1	0
+GO:BP	GO:0045920	negative regulation of exocytosis	1.0	-0.0	1	0
+GO:BP	GO:0045922	negative regulation of fatty acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045923	positive regulation of fatty acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045931	positive regulation of mitotic cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0045934	negative regulation of nucleobase-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045936	negative regulation of phosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045939	negative regulation of steroid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0045980	negative regulation of nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046031	ADP metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046032	ADP catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046034	ATP metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046352	disaccharide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046364	monosaccharide biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046365	monosaccharide catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046394	carboxylic acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046395	carboxylic acid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046434	organophosphate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046456	icosanoid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046457	prostanoid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046461	neutral lipid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046464	acylglycerol catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046467	membrane lipid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046486	glycerolipid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046496	nicotinamide nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046503	glycerolipid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0046631	alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0046632	alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0046633	alpha-beta T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0046634	regulation of alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0046635	positive regulation of alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0046636	negative regulation of alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0046637	regulation of alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0046638	positive regulation of alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0046639	negative regulation of alpha-beta T cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0046640	regulation of alpha-beta T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0046641	positive regulation of alpha-beta T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0046649	lymphocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0046651	lymphocyte proliferation	1.0	-0.0	1	0
+GO:BP	GO:0046683	response to organophosphorus	1.0	-0.0	1	0
+GO:BP	GO:0046718	symbiont entry into host cell	1.0	-0.0	1	0
+GO:BP	GO:0046879	hormone secretion	1.0	-0.0	1	0
+GO:BP	GO:0046883	regulation of hormone secretion	1.0	-0.0	1	0
+GO:BP	GO:0046889	positive regulation of lipid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046890	regulation of lipid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0046903	secretion	1.0	-0.0	1	0
+GO:BP	GO:0046942	carboxylic acid transport	1.0	-0.0	1	0
+GO:BP	GO:0048002	antigen processing and presentation of peptide antigen	1.0	-0.0	1	0
+GO:BP	GO:0048066	developmental pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0048069	eye pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0048070	regulation of developmental pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0048073	regulation of eye pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0048232	male gamete generation	1.0	-0.0	1	0
+GO:BP	GO:0048240	sperm capacitation	1.0	-0.0	1	0
+GO:BP	GO:0048284	organelle fusion	1.0	-0.0	1	0
+GO:BP	GO:0048468	cell development	1.0	-0.0	1	0
+GO:BP	GO:0048469	cell maturation	1.0	-0.0	1	0
+GO:BP	GO:0048513	animal organ development	1.0	-0.0	1	0
+GO:BP	GO:0048514	blood vessel morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048515	spermatid differentiation	1.0	-0.0	1	0
+GO:BP	GO:0048518	positive regulation of biological process	1.0	-0.0	1	0
+GO:BP	GO:0048519	negative regulation of biological process	1.0	-0.0	1	0
+GO:BP	GO:0048522	positive regulation of cellular process	1.0	-0.0	1	0
+GO:BP	GO:0048523	negative regulation of cellular process	1.0	-0.0	1	0
+GO:BP	GO:0048534	hematopoietic or lymphoid organ development	1.0	-0.0	1	0
+GO:BP	GO:0048535	lymph node development	1.0	-0.0	1	0
+GO:BP	GO:0048545	response to steroid hormone	1.0	-0.0	1	0
+GO:BP	GO:0048583	regulation of response to stimulus	1.0	-0.0	1	0
+GO:BP	GO:0048584	positive regulation of response to stimulus	1.0	-0.0	1	0
+GO:BP	GO:0048585	negative regulation of response to stimulus	1.0	-0.0	1	0
+GO:BP	GO:0048589	developmental growth	1.0	-0.0	1	0
+GO:BP	GO:0048608	reproductive structure development	1.0	-0.0	1	0
+GO:BP	GO:0048609	multicellular organismal reproductive process	1.0	-0.0	1	0
+GO:BP	GO:0048646	anatomical structure formation involved in morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048729	tissue morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048731	system development	1.0	-0.0	1	0
+GO:BP	GO:0048732	gland development	1.0	-0.0	1	0
+GO:BP	GO:0048753	pigment granule organization	1.0	-0.0	1	0
+GO:BP	GO:0048839	inner ear development	1.0	-0.0	1	0
+GO:BP	GO:0048850	hypophysis morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048852	diencephalon morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048853	forebrain morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048854	brain morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048855	adenohypophysis morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0048856	anatomical structure development	1.0	-0.0	1	0
+GO:BP	GO:0048869	cellular developmental process	1.0	-0.0	1	0
+GO:BP	GO:0048870	cell motility	1.0	-0.0	1	0
+GO:BP	GO:0048871	multicellular organismal-level homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0048872	homeostasis of number of cells	1.0	-0.0	1	0
+GO:BP	GO:0048878	chemical homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0050435	amyloid-beta metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0050482	arachidonate secretion	1.0	-0.0	1	0
+GO:BP	GO:0050665	hydrogen peroxide biosynthetic process	0.2815678705036407	0.550416903716949	1	0
+GO:BP	GO:0050670	regulation of lymphocyte proliferation	1.0	-0.0	1	0
+GO:BP	GO:0050671	positive regulation of lymphocyte proliferation	1.0	-0.0	1	0
+GO:BP	GO:0050673	epithelial cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0050678	regulation of epithelial cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:0050727	regulation of inflammatory response	1.0	-0.0	1	0
+GO:BP	GO:0050730	regulation of peptidyl-tyrosine phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0050732	negative regulation of peptidyl-tyrosine phosphorylation	1.0	-0.0	1	0
+GO:BP	GO:0050776	regulation of immune response	1.0	-0.0	1	0
+GO:BP	GO:0050777	negative regulation of immune response	1.0	-0.0	1	0
+GO:BP	GO:0050778	positive regulation of immune response	1.0	-0.0	1	0
+GO:BP	GO:0050789	regulation of biological process	1.0	-0.0	1	0
+GO:BP	GO:0050790	regulation of catalytic activity	1.0	-0.0	1	0
+GO:BP	GO:0050793	regulation of developmental process	1.0	-0.0	1	0
+GO:BP	GO:0050794	regulation of cellular process	1.0	-0.0	1	0
+GO:BP	GO:0050801	monoatomic ion homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0050863	regulation of T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0050865	regulation of cell activation	1.0	-0.0	1	0
+GO:BP	GO:0050866	negative regulation of cell activation	1.0	-0.0	1	0
+GO:BP	GO:0050867	positive regulation of cell activation	1.0	-0.0	1	0
+GO:BP	GO:0050868	negative regulation of T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0050870	positive regulation of T cell activation	1.0	-0.0	1	0
+GO:BP	GO:0050873	brown fat cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:0050877	nervous system process	1.0	-0.0	1	0
+GO:BP	GO:0050896	response to stimulus	1.0	-0.0	1	0
+GO:BP	GO:0050900	leukocyte migration	1.0	-0.0	1	0
+GO:BP	GO:0050954	sensory perception of mechanical stimulus	1.0	-0.0	1	0
+GO:BP	GO:0051046	regulation of secretion	1.0	-0.0	1	0
+GO:BP	GO:0051048	negative regulation of secretion	1.0	-0.0	1	0
+GO:BP	GO:0051049	regulation of transport	1.0	-0.0	1	0
+GO:BP	GO:0051050	positive regulation of transport	1.0	-0.0	1	0
+GO:BP	GO:0051051	negative regulation of transport	1.0	-0.0	1	0
+GO:BP	GO:0051084	'de novo' post-translational protein folding	1.0	-0.0	1	0
+GO:BP	GO:0051085	chaperone cofactor-dependent protein refolding	1.0	-0.0	1	0
+GO:BP	GO:0051093	negative regulation of developmental process	1.0	-0.0	1	0
+GO:BP	GO:0051094	positive regulation of developmental process	1.0	-0.0	1	0
+GO:BP	GO:0051128	regulation of cellular component organization	1.0	-0.0	1	0
+GO:BP	GO:0051130	positive regulation of cellular component organization	1.0	-0.0	1	0
+GO:BP	GO:0051156	glucose 6-phosphate metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051174	regulation of phosphorus metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051179	localization	1.0	-0.0	1	0
+GO:BP	GO:0051208	sequestering of calcium ion	1.0	-0.0	1	0
+GO:BP	GO:0051209	release of sequestered calcium ion into cytosol	1.0	-0.0	1	0
+GO:BP	GO:0051234	establishment of localization	1.0	-0.0	1	0
+GO:BP	GO:0051235	maintenance of location	1.0	-0.0	1	0
+GO:BP	GO:0051239	regulation of multicellular organismal process	1.0	-0.0	1	0
+GO:BP	GO:0051240	positive regulation of multicellular organismal process	1.0	-0.0	1	0
+GO:BP	GO:0051241	negative regulation of multicellular organismal process	1.0	-0.0	1	0
+GO:BP	GO:0051246	regulation of protein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051248	negative regulation of protein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051249	regulation of lymphocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0051250	negative regulation of lymphocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0051251	positive regulation of lymphocyte activation	1.0	-0.0	1	0
+GO:BP	GO:0051259	protein complex oligomerization	1.0	-0.0	1	0
+GO:BP	GO:0051260	protein homooligomerization	1.0	-0.0	1	0
+GO:BP	GO:0051262	protein tetramerization	1.0	-0.0	1	0
+GO:BP	GO:0051282	regulation of sequestering of calcium ion	1.0	-0.0	1	0
+GO:BP	GO:0051283	negative regulation of sequestering of calcium ion	1.0	-0.0	1	0
+GO:BP	GO:0051289	protein homotetramerization	1.0	-0.0	1	0
+GO:BP	GO:0051338	regulation of transferase activity	1.0	-0.0	1	0
+GO:BP	GO:0051348	negative regulation of transferase activity	1.0	-0.0	1	0
+GO:BP	GO:0051384	response to glucocorticoid	1.0	-0.0	1	0
+GO:BP	GO:0051451	myoblast migration	1.0	-0.0	1	0
+GO:BP	GO:0051552	flavone metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051591	response to cAMP	1.0	-0.0	1	0
+GO:BP	GO:0051604	protein maturation	0.7379425007998588	0.1319774763316755	1	0
+GO:BP	GO:0051641	cellular localization	1.0	-0.0	1	0
+GO:BP	GO:0051651	maintenance of location in cell	1.0	-0.0	1	0
+GO:BP	GO:0051701	biological process involved in interaction with host	1.0	-0.0	1	0
+GO:BP	GO:0051702	biological process involved in interaction with symbiont	1.0	-0.0	1	0
+GO:BP	GO:0051707	response to other organism	0.7764091535184614	0.1099093531147875	1	0
+GO:BP	GO:0051716	cellular response to stimulus	1.0	-0.0	1	0
+GO:BP	GO:0051726	regulation of cell cycle	1.0	-0.0	1	0
+GO:BP	GO:0051791	medium-chain fatty acid metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051792	medium-chain fatty acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0051793	medium-chain fatty acid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0051838	cytolysis by host of symbiont cells	1.0	-0.0	1	0
+GO:BP	GO:0051873	killing by host of symbiont cells	1.0	-0.0	1	0
+GO:BP	GO:0051923	sulfation	1.0	-0.0	1	0
+GO:BP	GO:0055074	calcium ion homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0055080	monoatomic cation homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0055082	intracellular chemical homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0055085	transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0055086	nucleobase-containing small molecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0060249	anatomical structure homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0060255	regulation of macromolecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0060284	regulation of cell development	1.0	-0.0	1	0
+GO:BP	GO:0060322	head development	1.0	-0.0	1	0
+GO:BP	GO:0060326	cell chemotaxis	1.0	-0.0	1	0
+GO:BP	GO:0060343	trabecula formation	1.0	-0.0	1	0
+GO:BP	GO:0060347	heart trabecula formation	1.0	-0.0	1	0
+GO:BP	GO:0060348	bone development	1.0	-0.0	1	0
+GO:BP	GO:0060429	epithelium development	1.0	-0.0	1	0
+GO:BP	GO:0060512	prostate gland morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0060537	muscle tissue development	1.0	-0.0	1	0
+GO:BP	GO:0060538	skeletal muscle organ development	1.0	-0.0	1	0
+GO:BP	GO:0060627	regulation of vesicle-mediated transport	1.0	-0.0	1	0
+GO:BP	GO:0061008	hepaticobiliary system development	1.0	-0.0	1	0
+GO:BP	GO:0061024	membrane organization	1.0	-0.0	1	0
+GO:BP	GO:0061025	membrane fusion	1.0	-0.0	1	0
+GO:BP	GO:0061041	regulation of wound healing	1.0	-0.0	1	0
+GO:BP	GO:0061061	muscle structure development	1.0	-0.0	1	0
+GO:BP	GO:0061077	chaperone-mediated protein folding	1.0	-0.0	1	0
+GO:BP	GO:0061097	regulation of protein tyrosine kinase activity	1.0	-0.0	1	0
+GO:BP	GO:0061099	negative regulation of protein tyrosine kinase activity	1.0	-0.0	1	0
+GO:BP	GO:0061383	trabecula morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0061384	heart trabecula morphogenesis	1.0	-0.0	1	0
+GO:BP	GO:0061458	reproductive system development	1.0	-0.0	1	0
+GO:BP	GO:0061624	fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate	1.0	-0.0	1	0
+GO:BP	GO:0061919	process utilizing autophagic mechanism	1.0	-0.0	1	0
+GO:BP	GO:0062012	regulation of small molecule metabolic process	0.974457046337996	0.0112372996448943	1	0
+GO:BP	GO:0062013	positive regulation of small molecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0062014	negative regulation of small molecule metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0062197	cellular response to chemical stress	1.0	-0.0	1	0
+GO:BP	GO:0065003	protein-containing complex assembly	1.0	-0.0	1	0
+GO:BP	GO:0065007	biological regulation	1.0	-0.0	1	0
+GO:BP	GO:0065008	regulation of biological quality	1.0	-0.0	1	0
+GO:BP	GO:0065009	regulation of molecular function	1.0	-0.0	1	0
+GO:BP	GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	1.0	-0.0	1	0
+GO:BP	GO:0070070	proton-transporting V-type ATPase complex assembly	1.0	-0.0	1	0
+GO:BP	GO:0070071	proton-transporting two-sector ATPase complex assembly	1.0	-0.0	1	0
+GO:BP	GO:0070072	vacuolar proton-transporting V-type ATPase complex assembly	1.0	-0.0	1	0
+GO:BP	GO:0070301	cellular response to hydrogen peroxide	1.0	-0.0	1	0
+GO:BP	GO:0070365	hepatocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:0070459	prolactin secretion	1.0	-0.0	1	0
+GO:BP	GO:0070482	response to oxygen levels	1.0	-0.0	1	0
+GO:BP	GO:0070555	response to interleukin-1	1.0	-0.0	1	0
+GO:BP	GO:0070588	calcium ion transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0070661	leukocyte proliferation	1.0	-0.0	1	0
+GO:BP	GO:0070663	regulation of leukocyte proliferation	1.0	-0.0	1	0
+GO:BP	GO:0070665	positive regulation of leukocyte proliferation	1.0	-0.0	1	0
+GO:BP	GO:0070727	cellular macromolecule localization	1.0	-0.0	1	0
+GO:BP	GO:0070848	response to growth factor	1.0	-0.0	1	0
+GO:BP	GO:0070887	cellular response to chemical stimulus	1.0	-0.0	1	0
+GO:BP	GO:0070980	biphenyl catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0071216	cellular response to biotic stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071219	cellular response to molecule of bacterial origin	1.0	-0.0	1	0
+GO:BP	GO:0071222	cellular response to lipopolysaccharide	1.0	-0.0	1	0
+GO:BP	GO:0071345	cellular response to cytokine stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071361	cellular response to ethanol	1.0	-0.0	1	0
+GO:BP	GO:0071363	cellular response to growth factor stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071383	cellular response to steroid hormone stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071384	cellular response to corticosteroid stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071385	cellular response to glucocorticoid stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071392	cellular response to estradiol stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071396	cellular response to lipid	1.0	-0.0	1	0
+GO:BP	GO:0071453	cellular response to oxygen levels	1.0	-0.0	1	0
+GO:BP	GO:0071456	cellular response to hypoxia	1.0	-0.0	1	0
+GO:BP	GO:0071466	cellular response to xenobiotic stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071495	cellular response to endogenous stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071559	response to transforming growth factor beta	1.0	-0.0	1	0
+GO:BP	GO:0071560	cellular response to transforming growth factor beta stimulus	1.0	-0.0	1	0
+GO:BP	GO:0071621	granulocyte chemotaxis	1.0	-0.0	1	0
+GO:BP	GO:0071674	mononuclear cell migration	1.0	-0.0	1	0
+GO:BP	GO:0071675	regulation of mononuclear cell migration	1.0	-0.0	1	0
+GO:BP	GO:0071692	protein localization to extracellular region	1.0	-0.0	1	0
+GO:BP	GO:0071695	anatomical structure maturation	1.0	-0.0	1	0
+GO:BP	GO:0071705	nitrogen compound transport	1.0	-0.0	1	0
+GO:BP	GO:0071715	icosanoid transport	1.0	-0.0	1	0
+GO:BP	GO:0071840	cellular component organization or biogenesis	1.0	-0.0	1	0
+GO:BP	GO:0071887	leukocyte apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:0072329	monocarboxylic acid catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0072330	monocarboxylic acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0072359	circulatory system development	1.0	-0.0	1	0
+GO:BP	GO:0072521	purine-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0072523	purine-containing compound catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0072524	pyridine-containing compound metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0072526	pyridine-containing compound catabolic process	1.0	-0.0	1	0
+GO:BP	GO:0072593	reactive oxygen species metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0072676	lymphocyte migration	1.0	-0.0	1	0
+GO:BP	GO:0072678	T cell migration	1.0	-0.0	1	0
+GO:BP	GO:0080090	regulation of primary metabolic process	1.0	-0.0	1	0
+GO:BP	GO:0080134	regulation of response to stress	1.0	-0.0	1	0
+GO:BP	GO:0085029	extracellular matrix assembly	1.0	-0.0	1	0
+GO:BP	GO:0090049	regulation of cell migration involved in sprouting angiogenesis	1.0	-0.0	1	0
+GO:BP	GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	1.0	-0.0	1	0
+GO:BP	GO:0090068	positive regulation of cell cycle process	1.0	-0.0	1	0
+GO:BP	GO:0090174	organelle membrane fusion	1.0	-0.0	1	0
+GO:BP	GO:0090303	positive regulation of wound healing	1.0	-0.0	1	0
+GO:BP	GO:0090407	organophosphate biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:0090520	sphingolipid mediated signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0097190	apoptotic signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0097193	intrinsic apoptotic signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0097237	cellular response to toxic substance	1.0	-0.0	1	0
+GO:BP	GO:0097278	complement-dependent cytotoxicity	1.0	-0.0	1	0
+GO:BP	GO:0097305	response to alcohol	1.0	-0.0	1	0
+GO:BP	GO:0097306	cellular response to alcohol	1.0	-0.0	1	0
+GO:BP	GO:0097350	neutrophil clearance	1.0	-0.0	1	0
+GO:BP	GO:0097435	supramolecular fiber organization	1.0	-0.0	1	0
+GO:BP	GO:0097529	myeloid leukocyte migration	1.0	-0.0	1	0
+GO:BP	GO:0097530	granulocyte migration	1.0	-0.0	1	0
+GO:BP	GO:0097553	calcium ion transmembrane import into cytosol	1.0	-0.0	1	0
+GO:BP	GO:0098542	defense response to other organism	1.0	-0.0	1	0
+GO:BP	GO:0098609	cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:0098655	monoatomic cation transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0098656	monoatomic anion transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0098657	import into cell	1.0	-0.0	1	0
+GO:BP	GO:0098660	inorganic ion transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0098661	inorganic anion transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0098662	inorganic cation transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:0098754	detoxification	1.0	-0.0	1	0
+GO:BP	GO:0098771	inorganic ion homeostasis	1.0	-0.0	1	0
+GO:BP	GO:0098869	cellular oxidant detoxification	1.0	-0.0	1	0
+GO:BP	GO:0106106	cold-induced thermogenesis	1.0	-0.0	1	0
+GO:BP	GO:0120161	regulation of cold-induced thermogenesis	1.0	-0.0	1	0
+GO:BP	GO:0120162	positive regulation of cold-induced thermogenesis	1.0	-0.0	1	0
+GO:BP	GO:0120305	regulation of pigmentation	1.0	-0.0	1	0
+GO:BP	GO:0140352	export from cell	1.0	-0.0	1	0
+GO:BP	GO:0140448	signaling receptor ligand precursor processing	1.0	-0.0	1	0
+GO:BP	GO:0140546	defense response to symbiont	1.0	-0.0	1	0
+GO:BP	GO:0141060	disruption of anatomical structure in another organism	1.0	-0.0	1	0
+GO:BP	GO:0141061	disruption of cell in another organism	1.0	-0.0	1	0
+GO:BP	GO:0141091	transforming growth factor beta receptor superfamily signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:0141124	intracellular signaling cassette	1.0	-0.0	1	0
+GO:BP	GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	1.0	-0.0	1	0
+GO:BP	GO:1900542	regulation of purine nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1900543	negative regulation of purine nucleotide metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1901135	carbohydrate derivative metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1901136	carbohydrate derivative catabolic process	1.0	-0.0	1	0
+GO:BP	GO:1901137	carbohydrate derivative biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:1901184	regulation of ERBB signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:1901185	negative regulation of ERBB signaling pathway	1.0	-0.0	1	0
+GO:BP	GO:1901292	nucleoside phosphate catabolic process	1.0	-0.0	1	0
+GO:BP	GO:1901293	nucleoside phosphate biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:1901334	lactone metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1901652	response to peptide	1.0	-0.0	1	0
+GO:BP	GO:1901654	response to ketone	1.0	-0.0	1	0
+GO:BP	GO:1901678	iron coordination entity transport	1.0	-0.0	1	0
+GO:BP	GO:1901698	response to nitrogen compound	1.0	-0.0	1	0
+GO:BP	GO:1901700	response to oxygen-containing compound	1.0	-0.0	1	0
+GO:BP	GO:1901701	cellular response to oxygen-containing compound	1.0	-0.0	1	0
+GO:BP	GO:1901987	regulation of cell cycle phase transition	1.0	-0.0	1	0
+GO:BP	GO:1901989	positive regulation of cell cycle phase transition	1.0	-0.0	1	0
+GO:BP	GO:1901990	regulation of mitotic cell cycle phase transition	1.0	-0.0	1	0
+GO:BP	GO:1901992	positive regulation of mitotic cell cycle phase transition	1.0	-0.0	1	0
+GO:BP	GO:1902031	regulation of NADP metabolic process	0.0849214582823455	1.0709825566805802	1	0
+GO:BP	GO:1902105	regulation of leukocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:1902106	negative regulation of leukocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:1902107	positive regulation of leukocyte differentiation	1.0	-0.0	1	0
+GO:BP	GO:1902476	chloride transmembrane transport	1.0	-0.0	1	0
+GO:BP	GO:1902652	secondary alcohol metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1902806	regulation of cell cycle G1/S phase transition	1.0	-0.0	1	0
+GO:BP	GO:1902808	positive regulation of cell cycle G1/S phase transition	1.0	-0.0	1	0
+GO:BP	GO:1903018	regulation of glycoprotein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1903019	negative regulation of glycoprotein metabolic process	1.0	-0.0	1	0
+GO:BP	GO:1903034	regulation of response to wounding	1.0	-0.0	1	0
+GO:BP	GO:1903036	positive regulation of response to wounding	1.0	-0.0	1	0
+GO:BP	GO:1903037	regulation of leukocyte cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:1903038	negative regulation of leukocyte cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:1903039	positive regulation of leukocyte cell-cell adhesion	1.0	-0.0	1	0
+GO:BP	GO:1903047	mitotic cell cycle process	1.0	-0.0	1	0
+GO:BP	GO:1903131	mononuclear cell differentiation	1.0	-0.0	1	0
+GO:BP	GO:1903409	reactive oxygen species biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:1903426	regulation of reactive oxygen species biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:1903428	positive regulation of reactive oxygen species biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:1903530	regulation of secretion by cell	1.0	-0.0	1	0
+GO:BP	GO:1903531	negative regulation of secretion by cell	1.0	-0.0	1	0
+GO:BP	GO:1903659	regulation of complement-dependent cytotoxicity	1.0	-0.0	1	0
+GO:BP	GO:1903706	regulation of hemopoiesis	1.0	-0.0	1	0
+GO:BP	GO:1903707	negative regulation of hemopoiesis	1.0	-0.0	1	0
+GO:BP	GO:1903708	positive regulation of hemopoiesis	1.0	-0.0	1	0
+GO:BP	GO:1903963	arachidonate transport	1.0	-0.0	1	0
+GO:BP	GO:1905856	negative regulation of pentose-phosphate shunt	1.0	-0.0	1	0
+GO:BP	GO:1990748	cellular detoxification	1.0	-0.0	1	0
+GO:BP	GO:1990845	adaptive thermogenesis	1.0	-0.0	1	0
+GO:BP	GO:2000026	regulation of multicellular organismal development	1.0	-0.0	1	0
+GO:BP	GO:2000045	regulation of G1/S transition of mitotic cell cycle	1.0	-0.0	1	0
+GO:BP	GO:2000106	regulation of leukocyte apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:2000108	positive regulation of leukocyte apoptotic process	1.0	-0.0	1	0
+GO:BP	GO:2000145	regulation of cell motility	1.0	-0.0	1	0
+GO:BP	GO:2000146	negative regulation of cell motility	1.0	-0.0	1	0
+GO:BP	GO:2000147	positive regulation of cell motility	1.0	-0.0	1	0
+GO:BP	GO:2000272	negative regulation of signaling receptor activity	1.0	-0.0	1	0
+GO:BP	GO:2000377	regulation of reactive oxygen species metabolic process	1.0	-0.0	1	0
+GO:BP	GO:2000379	positive regulation of reactive oxygen species metabolic process	1.0	-0.0	1	0
+GO:BP	GO:2000401	regulation of lymphocyte migration	1.0	-0.0	1	0
+GO:BP	GO:2000404	regulation of T cell migration	1.0	-0.0	1	0
+GO:BP	GO:2000514	regulation of CD4-positive, alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:2000516	positive regulation of CD4-positive, alpha-beta T cell activation	1.0	-0.0	1	0
+GO:BP	GO:2000561	regulation of CD4-positive, alpha-beta T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:2000563	positive regulation of CD4-positive, alpha-beta T cell proliferation	1.0	-0.0	1	0
+GO:BP	GO:2000609	regulation of thyroid hormone generation	1.0	-0.0	1	0
+GO:BP	GO:2001279	regulation of unsaturated fatty acid biosynthetic process	1.0	-0.0	1	0
+GO:BP	GO:2001280	positive regulation of unsaturated fatty acid biosynthetic process	1.0	-0.0	1	0
