@@ -1,18 +1,12 @@
-# --- Setup ---
-# pip install pandas numpy matplotlib scikit-learn umap-learn mygene
 import pandas as pd, numpy as np, matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 import umap
 import mygene
 
-# -----------------------------
-# Load data
-# -----------------------------
 expr = pd.read_csv("./SRP068591.tsv", sep="\t", index_col=0)
 meta = pd.read_csv("./metadata_SRP068591.tsv", sep="\t")
 
-# Make sure metadata is indexed by sample ID and aligned to expression columns
 if "refinebio_accession_code" not in meta.columns:
     raise KeyError("Expected 'refinebio_accession_code' column in metadata.")
 
@@ -23,9 +17,6 @@ meta = meta.loc[expr.columns]
 print("Matrix size (genes x samples):", expr.shape)
 print("# unique genes (row index):", expr.index.nunique())
 
-# -----------------------------
-# Ensembl → HGNC symbols (safe)
-# -----------------------------
 ens = pd.Index(expr.index).str.replace(r"\.\d+$", "", regex=True)
 
 mg = mygene.MyGeneInfo()
@@ -60,9 +51,6 @@ expr_mapped = expr_mapped.groupby(level=0, sort=False).median()
 
 print("After mapping/collapsing -> shape:", expr_mapped.shape)
 
-# -----------------------------
-# Log transform + median density
-# -----------------------------
 log_expr = np.log1p(expr_mapped)
 gene_medians = log_expr.median(axis=1)
 
@@ -75,10 +63,6 @@ plt.tight_layout()
 plt.show()
 
 
-# -----------------------------
-# Build grouping for coloring
-# Priority: refinebio_disease; fallback: derive from refinebio_title
-# -----------------------------
 def derive_group_from_title(title: str) -> str:
     """
     Map SRP068591 titles to 2 groups:
@@ -96,45 +80,29 @@ def derive_group_from_title(title: str) -> str:
 
 group_col = None
 if "refinebio_disease" in meta.columns and meta["refinebio_disease"].notna().any():
-    # Use as-is if it contains 2+ categories
     if meta["refinebio_disease"].nunique() >= 2:
         group_col = "refinebio_disease"
 
 if group_col is None:
-    # Derive from title
     if "refinebio_title" not in meta.columns:
         raise KeyError(
             "Metadata lacks both 'refinebio_disease' and 'refinebio_title' to create groups."
         )
     meta["group"] = meta["refinebio_title"].apply(derive_group_from_title)
-    # Keep only Polyp vs Cancer, drop 'Other'
     keep = meta["group"].isin(["Polyp", "Cancer"])
     meta = meta.loc[keep]
     log_expr = log_expr.loc[:, meta.index]  # realign matrix to kept samples
     group_col = "group"
 
-# Sanity checks
-if meta[group_col].nunique() < 2:
-    # Show a quick preview to help debug
-    print("Unique values in chosen group column:", meta[group_col].unique())
-    raise ValueError(
-        f"Grouping column '{group_col}' has fewer than 2 levels after filtering."
-    )
 
 print(f"Using grouping column: {group_col}")
 print(meta[group_col].value_counts())
 
-# -----------------------------
-# Matrix for embeddings (center genes)
-# -----------------------------
 X = (log_expr.T - log_expr.T.mean()).values  # samples x genes
 groups = meta.loc[log_expr.columns, group_col].astype(str).values
 labels = np.array(groups)
 unique_groups = np.unique(labels)
 
-# -----------------------------
-# PCA
-# -----------------------------
 pca = PCA(n_components=2, random_state=0)
 pc = pca.fit_transform(X)
 
@@ -149,9 +117,6 @@ plt.legend(frameon=False, title=group_col)
 plt.tight_layout()
 plt.show()
 
-# -----------------------------
-# t-SNE
-# -----------------------------
 tsne = TSNE(
     n_components=2,
     init="pca",
@@ -172,9 +137,6 @@ plt.legend(frameon=False, title=group_col)
 plt.tight_layout()
 plt.show()
 
-# -----------------------------
-# UMAP
-# -----------------------------
 um = umap.UMAP(n_neighbors=15, min_dist=0.1, metric="euclidean", random_state=0)
 uu = um.fit_transform(X)
 
@@ -189,9 +151,6 @@ plt.legend(frameon=False, title=group_col)
 plt.tight_layout()
 plt.show()
 
-# -----------------------------
-# Brief textual summary printed to console
-# -----------------------------
 print("\n===== SUMMARY =====")
 print(
     f"Expression matrix (after mapping): {expr_mapped.shape[0]} genes x {log_expr.shape[1]} samples"

@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-# ================================
-# Imports (all at the top)
-# ================================
 import os
 import re
 import warnings
@@ -11,7 +6,7 @@ import numpy as np
 import pandas as pd
 import matplotlib
 
-matplotlib.use("Agg")  # headless backend for servers
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 from sklearn.decomposition import PCA
@@ -27,11 +22,8 @@ from rpy2.robjects.packages import importr
 from PyComplexHeatmap import ClusterMapPlotter, HeatmapAnnotation
 
 
-# ================================
-# Config
-# ================================
-EXPR_PATH = "./SRP068591.tsv"  # refine.bio expression matrix (genes x samples)
-META_PATH = "./metadata_SRP068591.tsv"  # refine.bio metadata
+EXPR_PATH = "./SRP068591.tsv"
+META_PATH = "./metadata_SRP068591.tsv"
 RESULTS_DIR = "./results"
 
 VOLCANO_PNG = os.path.join(RESULTS_DIR, "volcano.png")
@@ -47,9 +39,6 @@ VOLCANO_LABELS = 15
 RANDOM_STATE = 0
 
 
-# ================================
-# Helpers
-# ================================
 def safe_make_dir(path):
     os.makedirs(path, exist_ok=True)
 
@@ -181,7 +170,7 @@ def plot_sig_heatmap(log_expr, res_df, meta, outfile, padj_thresh=0.05, lfc_thre
         Group=groups.map({"Cancer": "red", "Polyp": "blue"}), legend=True
     )
 
-    plt.figure(figsize=(10, 8))  # <-- set figure size here
+    plt.figure(figsize=(10, 8))
     cmp = ClusterMapPlotter(
         data=expr_z,
         col_cluster=True,
@@ -196,14 +185,10 @@ def plot_sig_heatmap(log_expr, res_df, meta, outfile, padj_thresh=0.05, lfc_thre
     print(f"[OK] Saved DEG heatmap: {os.path.abspath(outfile)}")
 
 
-# ================================
-# Main
-# ================================
 def main():
     warnings.filterwarnings("ignore", category=UserWarning)
     safe_make_dir(RESULTS_DIR)
 
-    # ---------- Load data ----------
     expr = pd.read_csv(EXPR_PATH, sep="\t", index_col=0)
     meta = pd.read_csv(META_PATH, sep="\t")
     meta = meta.set_index("refinebio_accession_code")
@@ -214,7 +199,6 @@ def main():
     print(f"Matrix size (genes x samples): {expr.shape}")
     print(f"# unique genes (row index): {expr.index.nunique()}")
 
-    # ---------- Ensembl -> HGNC symbols ----------
     ens = strip_ensembl_version(expr.index)
     mg = mygene.MyGeneInfo()
     conv = mg.querymany(
@@ -236,19 +220,16 @@ def main():
     expr_mapped = expr_mapped.groupby(level=0, sort=False).median()
     print(f"After mapping/collapsing -> shape: {expr_mapped.shape}")
 
-    # ---------- Log1p ----------
     log_expr = np.log1p(expr_mapped)
     gene_medians = log_expr.median(axis=1)
     plot_density(gene_medians)
 
-    # ---------- Groups ----------
     meta["group"] = meta["refinebio_title"].apply(derive_group_from_title)
     meta = meta.loc[meta["group"].isin([GROUP_NEG, GROUP_POS])]
     log_expr = log_expr.loc[:, meta.index]
     print("\n[Groups]")
     print(meta["group"].value_counts())
 
-    # ---------- PCA/t-SNE/UMAP ----------
     X = (log_expr.T - log_expr.T.mean()).values
     labels = meta.loc[log_expr.columns, "group"].astype(str).values
     pca = PCA(n_components=2, random_state=RANDOM_STATE)
@@ -276,7 +257,6 @@ def main():
     uu = um.fit_transform(X)
     scatter_by_group(uu, labels, "UMAP of samples", "UMAP1", "UMAP2", "group")
 
-    # ---------- DESeq2 ----------
     deseq2 = importr("DESeq2")
     try:
         importr("apeglm")
@@ -286,7 +266,6 @@ def main():
 
     counts_df = expr_mapped.loc[:, meta.index].fillna(0).round().astype(int)
 
-    # Build coldata directly from meta (guaranteed aligned)
     coldata = meta.loc[counts_df.columns, ["group"]].copy()
     coldata["group"] = pd.Categorical(
         coldata["group"], categories=[GROUP_NEG, GROUP_POS]
@@ -312,10 +291,8 @@ def main():
     res_df.dropna(subset=["padj"]).head(50).to_csv(TOP50_TSV, sep="\t")
     print(f"[OK] Saved DE results to {RESULTS_DIR}")
 
-    # ---------- Volcano ----------
     volcano_plot(res_df, outfile=VOLCANO_PNG)
 
-    # ---------- Heatmap ----------
     plot_sig_heatmap(
         log_expr,
         res_df,
