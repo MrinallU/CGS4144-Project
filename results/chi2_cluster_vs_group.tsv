@@ -1,0 +1,2 @@
+Method	Chi2	df	p_value	p_adj_bonferroni	p_adj_fdr_bh	n_clusters	n_groups
+KMeans	14.094712403808526	3	0.0027790269034001715	0.0027790269034001715	0.0027790269034001715	4	2
