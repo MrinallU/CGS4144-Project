@@ -21,17 +21,14 @@ EXPR_PATH = "./SRP068591.tsv"
 META_PATH = "./metadata_SRP068591.tsv"
 RESULTS_DIR = "./results"
 
-METHOD = "kmeans"  # choose: "kmeans", "gmm", "spectral", "hierarchical"
+METHOD = "kmeans"
 N_CLUSTERS = 4
 GENE_COUNTS = [10, 100, 1000, 10000]
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
-# ========== FUNCTIONS ==========
-
 
 def run_clustering(X, method="kmeans", n_clusters=4):
-    """Run chosen clustering method and return cluster labels."""
     if method == "kmeans":
         model = KMeans(n_clusters=n_clusters, random_state=0)
         labels = model.fit_predict(X)
@@ -70,12 +67,10 @@ def plot_pca_clusters(X_scaled, labels, n_genes, method, outdir):
 
 
 def chi2_cluster_comparison(labels_dict):
-    """Perform chi-squared tests between all pairs of clusterings."""
     results = []
     keys = list(labels_dict.keys())
     for i, j in itertools.combinations(keys, 2):
         a, b = labels_dict[i], labels_dict[j]
-        # Cross-tabulate cluster memberships
         contingency = pd.crosstab(a, b)
         chi2, p, dof, _ = chi2_contingency(contingency)
         results.append({
@@ -85,9 +80,6 @@ def chi2_cluster_comparison(labels_dict):
             "p_value": p,
         })
     return pd.DataFrame(results)
-
-
-# ========== MAIN WORKFLOW ==========
 
 
 def main():
@@ -127,4 +119,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

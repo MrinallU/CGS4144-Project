@@ -7,15 +7,11 @@ import numpy as np
 from scipy.stats import chi2_contingency
 from statsmodels.stats.multitest import multipletests
 
-# ================================
-# Config
-# ================================
 RESULTS_DIR = "./results"
 META_PATH = "./metadata_SRP068591.tsv"
 KMEANS_LABELS = os.path.join(RESULTS_DIR, "kmeans_labels.csv")
 OUT_TSV = os.path.join(RESULTS_DIR, "chi2_cluster_vs_group.tsv")
 
-# If you later add other clustering results, list them here:
 CLUSTER_METHODS = {
     "KMeans": KMEANS_LABELS,
     # "Hierarchical": "./results/hier_labels.csv",
@@ -23,11 +19,7 @@ CLUSTER_METHODS = {
 }
 
 
-# ================================
-# Helpers
-# ================================
 def derive_group(title: str) -> str:
-    """Map refine.bio titles to Polyp/Cancer categories."""
     t = str(title).upper()
     if any(k in t for k in ["SSA", "HP", "AP"]):
         return "Polyp"
@@ -37,7 +29,6 @@ def derive_group(title: str) -> str:
 
 
 def run_chi2_test(labels: pd.Series, groups: pd.Series):
-    """Run chi-squared test of independence between clusters and biological groups."""
     contingency = pd.crosstab(labels, groups)
     chi2, p, dof, expected = chi2_contingency(contingency)
     return {
@@ -49,9 +40,6 @@ def run_chi2_test(labels: pd.Series, groups: pd.Series):
     }
 
 
-# ================================
-# Main
-# ================================
 def main():
     os.makedirs(RESULTS_DIR, exist_ok=True)
 
@@ -69,12 +57,10 @@ def main():
         labels = pd.read_csv(path, index_col=0).iloc[:, 0]
         labels.name = "cluster"
 
-        # Align with metadata
         common = meta.index.intersection(labels.index)
         labels = labels.loc[common]
         groups = meta.loc[common, "group"]
 
-        # Skip if insufficient variety
         if groups.nunique() < 2 or labels.nunique() < 2:
             print(f"[WARN] {name}: insufficient group/cluster diversity, skipping.")
             continue
@@ -84,17 +70,14 @@ def main():
         stats["Method"] = name
         results.append(stats)
 
-    # Combine into DataFrame
     if not results:
         raise RuntimeError("No clustering results found or tests failed.")
 
     df = pd.DataFrame(results)
 
-    # Adjust for multiple testing
     df["p_adj_bonferroni"] = multipletests(df["p_value"], method="bonferroni")[1]
     df["p_adj_fdr_bh"] = multipletests(df["p_value"], method="fdr_bh")[1]
 
-    # Save
     df = df[
         [
             "Method",
