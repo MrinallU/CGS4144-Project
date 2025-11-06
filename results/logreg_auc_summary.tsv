@@ -1,0 +1,6 @@
+Target	Genes	AUC
+Hierarchical_Clusters	10	0.8848486562201181
+Hierarchical_Clusters	100	0.9928008113850243
+Hierarchical_Clusters	1000	0.9773884562480091
+Hierarchical_Clusters	5000	0.9564841725628016
+Hierarchical_Clusters	10000	0.9254251409345101
